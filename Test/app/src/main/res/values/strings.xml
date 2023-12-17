@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="Full">Full Name</string>
+    <string name="User">Username</string>
+    <string name="Email">Email</string>
+    <string name="Pass">Password</string>
+    <string name="Re_pass">Re-type Password</string>
+    <string name="Gender">Gender</string>
+    <string name="Female">Female</string>
+    <string name="Male">Male</string>
+    <string name="Register">Register</string>
+    <string name="RegisterFB">Register with facebook</string>
+</resources>
